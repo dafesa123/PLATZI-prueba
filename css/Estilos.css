@@ -2,5 +2,15 @@ body
 {text-align: center;
 font-size: large;
 font-family: "Arial";
-color: dodgerblue;
+color: #333;
 }
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid;
+    margin: auto;
+}
+
+#container h1
