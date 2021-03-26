@@ -6,6 +6,12 @@ color: #333;
 }
 #container
 {
+    text-align: center;
+}
+
+#cabecera 
+{background-color: aquamarine;}
+{
     width: 70%;
     padding: 1em;
     text-align: left;
