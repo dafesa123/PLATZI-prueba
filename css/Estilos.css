@@ -10,7 +10,9 @@ color: #333;
 }
 
 #cabecera 
-{background-color: aquamarine;}
+{background-color: red;
+border:blue ;
+font-size: larger;}
 {
     width: 70%;
     padding: 1em;
