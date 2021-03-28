@@ -2,16 +2,16 @@ body
 {text-align: center;
 font-size: large;
 font-family: "Arial";
-color: #red
-;
+color: #492;
 }
 #container
 {
     text-align: center;
 }
 
-#cabecera 
+#cabecera #logo
 {background-color: red;
+    background: URL ("../cohete.jpg");
 border:blue ;
 font-size: larger;}
 {
@@ -23,3 +23,8 @@ font-size: larger;}
 }
 
 #container h1
+
+#footer
+ {
+     background: blue;
+ }
